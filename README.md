@@ -1,4 +1,5 @@
 # xanax-latest-project
+First Extract Package.Rar Then open Sln
 Add References If Facing Errors 
 Or Update References if necessary 
 Add latest Values Run Antiban
